@@ -1,0 +1,11 @@
+Project Name: Graph Theory Analysis of ASD Brains
+
+Project Description: Our project is an empirical analysis of brain connectivity in Autism Spectrum Disorder. Our project was inspired by recent trends in Autism research - researchers have utilized Graph Theory metrics to understand the complex connectivity patterns of the Autistic Brain. We used data from an fMRI study of 42 individuals with Autism Spectrum Disorder and and 37 control individuals, conducted by researchers at UCLA. We implemented average clustering coefficient for each set of brain connectivity data, and we implemented betweenness centrality to find the hubs of each brain network. Our overall hypothesis is that the brains of individuals with Autism are different from those of typically developing individuals. We compared both of these measures between the ASD group and the control group and found that the ASD group had a decreased average clustering coefficient, different hub regions, and decreased hub strength.
+
+Concept Categories: Graphs and graph algorithms.
+
+Work Breakdown:
+Nitay - Implementation of Betweenness Centrality, writing Summary Report
+Rachel - Implementation of data parsing and clustering coefficient
+
+Note to grader: our data can be found in the AutismSpectrumDisorder and TypicalDevelopment folders.
